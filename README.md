@@ -10,15 +10,15 @@
 
 <div align="center">
   <!-- Social Links with Emojis -->
-  <a href="https://www.linkedin.com/in/mari%C3%A1n-%C5%A1trba-b67414253/">
+  <a href="https://www.linkedin.com/in/mari%C3%A1n-%C5%A1trba-b67414253/" style="color: black;">
     👔 LinkedIn
   </a>
   &nbsp;|&nbsp; 
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:your-email@example.com" style="color: black;">
     📧 Email
   </a>
   &nbsp;|&nbsp;
-  <a href="https://www.instagram.com/yourinstagram/">
+  <a href="https://www.instagram.com/yourinstagram/" style="color: black;">
     📸 Instagram
   </a>
 </div>
@@ -37,7 +37,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marinstrba&show_icons=true&theme=theme_name" alt="Your GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=marinstrba&show_icons=true&theme=radical" alt="Your GitHub stats">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinstrba&layout=compact&theme=radical" alt="Top Langs">
 </div>
