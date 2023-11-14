@@ -25,15 +25,15 @@
 
 <div align="left" >
   
-  -> Backend: Java, Spring Framework, Spring Boot;
-  -> Data: PostgreSQL, MySQL;
-  -> DevOps: Git, Linux;
-  -> Frontend: HTML, CSS(Sass, Scss), Bootstrap;
+  -> Backend: Java, Spring Framework, Spring Boot;  
+  -> Data: PostgreSQL, MySQL;  
+  -> DevOps: Git, Linux;  
+  -> Frontend: HTML, CSS(Sass, Scss), Bootstrap;  
 
 </div>
 <div>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marinstrba&show_icons=true&theme=radical)
-
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=marinstrba&show_icons=true&theme=theme_name)
+   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinstrba&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
