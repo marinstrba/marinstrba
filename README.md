@@ -1,7 +1,23 @@
 <div align="center">
 # Hello👋, I'm Marian Strba! 
 
-I'm a passionate software developer with a love for creating innovative solutions and engaging projects. Welcome to my GitHub profile!
+<div align="center">
+  <div align="center">
+  <a href="https://your-website-url.com">
+    <h2>My Portfolio</h2>
+  </a>
+  </div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/mari%C3%A1n-%C5%A1trba-b67414253/">
+    <img src="https://img.shields.io/badge/-yourlinkedinusername-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-your-email%40example.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://www.instagram.com/yourinstagram/">
+    <img src="https://img.shields.io/badge/Instagram-yourinstagram%40example.com-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
 
 ## 📊 My GitHub Stats
 
@@ -10,16 +26,6 @@ I'm a passionate software developer with a love for creating innovative solution
 ## 🔥 Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinstrba&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🌐 Socials
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-yourlinkedinusername-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedinusername/)](https://www.linkedin.com/in/mari%C3%A1n-%C5%A1trba-b67414253/)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ## 📫 How to Reach Me
 
