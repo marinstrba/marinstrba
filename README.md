@@ -1,5 +1,5 @@
 <div align="center">
-# Hello👋, I'm Marian Strba! 
+<h1>Hello👋, I'm Marian Strba!</h1> 
    
 <div align="center">
   <!-- My Portfolio with a blue hyperlink -->
@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/mari%C3%A1n-%C5%A1trba-b67414253/">
     👔 LinkedIn
   </a>
-  &nbsp;|&nbsp; <!-- Non-breaking space and pipe character for separation -->
+  &nbsp;|&nbsp; 
   <a href="mailto:your-email@example.com">
     📧 Email
   </a>
@@ -23,19 +23,24 @@
   </a>
 </div>
 
+<br>
+
 <div align="left" >
   
-  -> Backend: Java, Spring Framework, Spring Boot;  
-  -> Data: PostgreSQL, MySQL;  
-  -> DevOps: Git, Linux;  
-  -> Frontend: HTML, CSS(Sass, Scss), Bootstrap;  
+  <p>-> Backend: Java, Spring Framework, Spring Boot;</p>  
+  <p>-> Data: PostgreSQL, MySQL;</p>
+  <p>-> DevOps: Git, Linux;</p>
+  <p>-> Frontend: HTML, CSS(Sass, Scss), Bootstrap;</p>
 
 </div>
-<div>
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=marinstrba&show_icons=true&theme=theme_name)
-   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinstrba&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marinstrba&show_icons=true&theme=theme_name" alt="Your GitHub stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinstrba&layout=compact&theme=radical" alt="Top Langs">
 </div>
+
 Thank you for visiting my profile! Star some repositories if you find them interesting!
 </div>
