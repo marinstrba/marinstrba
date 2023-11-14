@@ -1,3 +1,4 @@
+<div align="center">
 # Hello👋, I'm Marian Strba! 
 
 I'm a passionate software developer with a love for creating innovative solutions and engaging projects. Welcome to my GitHub profile!
@@ -25,3 +26,4 @@ I'm a passionate software developer with a love for creating innovative solution
 Feel free to contact me through [email@example.com](mailto:email@example.com) or on any of the social platforms listed above.
 
 Thank you for visiting my profile! Star some repositories if you find them interesting!
+</div>
