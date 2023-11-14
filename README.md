@@ -1,4 +1,4 @@
-# Hello, I'm Marian Strba! 👋
+# Hello👋, I'm Marian Strba! 
 
 I'm a passionate software developer with a love for creating innovative solutions and engaging projects. Welcome to my GitHub profile!
 
