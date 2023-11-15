@@ -3,9 +3,11 @@
    
 <div align="center">
   <!-- My Portfolio with a blue hyperlink -->
+   <h3>
   <a href="https://your-website-url.com" style="color: blue; text-decoration: underline;">
-    <h3> 🌐 My Portfolio 🌐 </h3>
+     🌐 My Portfolio 🌐 
   </a>
+   </h3>
 </div>
 
 <div align="center">
@@ -59,6 +61,8 @@
 
    </div>
 </div>
+
+<br>
 
 Thank you for visiting my profile! Star some repositories if you find them interesting!
 </div>
