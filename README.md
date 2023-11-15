@@ -26,7 +26,7 @@
 <br>
 <div>
 <div>
-  🛠️ Skills
+ <h2> 🛠️ Skills </h2>
 </div>
 <div align="left" >
   
@@ -49,11 +49,11 @@
 
 <div>
    <div allign = "center">
-      🚀 Notable projects
+     <h2> 🚀 Notable projects </h2>
    </div>
    <div>
-      [discordBot](https://github.com/marinstrba/discordBot)
--> Java, SQLite, maven
+      [discordBot](https://github.com/marinstrba/discordBot)  
+          -> Java, SQLite, maven
 
    </div>
 </div>
