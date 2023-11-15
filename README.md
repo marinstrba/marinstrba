@@ -4,7 +4,7 @@
 <div align="center">
   <!-- My Portfolio with a blue hyperlink -->
   <a href="https://your-website-url.com" style="color: blue; text-decoration: underline;">
-    🌐 My Portfolio 🌐
+    <h3> 🌐 My Portfolio 🌐 </h3>
   </a>
 </div>
 
@@ -52,8 +52,10 @@
      <h2> 🚀 Notable projects </h2>
    </div>
    <div>
-      [discordBot](https://github.com/marinstrba/discordBot)  
-          -> Java, SQLite, maven
+       <a href="https://github.com/marinstrba/discordBot " style="color: black;">
+       DiscordBot
+   </a> 
+         <i> -> Java, SQLite, maven </i>
 
    </div>
 </div>
