@@ -14,17 +14,20 @@
     👔 LinkedIn
   </a>
   &nbsp;|&nbsp; 
-  <a href="mailto:your-email@example.com" style="color: black;">
+  <a href="mailto:marinstrba@gmail.com" style="color: black;">
     📧 Email
   </a>
   &nbsp;|&nbsp;
-  <a href="https://www.instagram.com/yourinstagram/" style="color: black;">
+  <a href="https://www.instagram.com/marianstrba/" style="color: black;">
     📸 Instagram
   </a>
 </div>
 
 <br>
-
+<div>
+<div>
+  🛠️ Skills
+</div>
 <div align="left" >
   
   <p>-> Backend: Java, Spring Framework, Spring Boot;</p>  
@@ -33,13 +36,26 @@
   <p>-> Frontend: HTML, CSS(Sass, Scss), Bootstrap;</p>
 
 </div>
-
+</div>
 <br>
 
 <div align="center">
+   <!--
   <img src="https://github-readme-stats.vercel.app/api?username=marinstrba&show_icons=true&theme=radical" alt="Your GitHub stats">
   <br>
+   -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinstrba&layout=compact&theme=radical" alt="Top Langs">
+</div>
+
+<div>
+   <div allign = "center">
+      🚀 Notable projects
+   </div>
+   <div>
+      [discordBot](https://github.com/marinstrba/discordBot)
+-> Java, SQLite, maven
+
+   </div>
 </div>
 
 Thank you for visiting my profile! Star some repositories if you find them interesting!
