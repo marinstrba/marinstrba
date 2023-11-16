@@ -4,23 +4,24 @@
 <p align="center">
   <!-- My Portfolio badge -->
   <a href="https://marinstrba.github.io/Peronalwebsite/">
-    <img alt="My Website" src="https://img.shields.io/badge/🌐-My_Website-blue?style=for-the-badge&logoColor=white" />
+    <img alt="My Website" src="https://img.shields.io/badge/🌐-My_Website-0A66C2?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
   <!-- Social Links badges -->
   <a href="https://www.linkedin.com/in/mari%C3%A1n-%C5%A1trba-b67414253/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/👔-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/👔-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:marinstrba@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/📧-Email-black?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/📧-Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/marianstrba/">
-    <img alt="Instagram" src="https://img.shields.io/badge/📸-Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img alt="Instagram" src="https://img.shields.io/badge/📸-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+</p>
 </p>
 
 <br>
