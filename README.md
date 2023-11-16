@@ -32,12 +32,23 @@
 </div>
 <div align="left" >
   
-  <p>-> Backend: [](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197), Spring Framework, Spring Boot;</p>  
+  <p>-> Backend: (https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197), Spring Framework, Spring Boot;</p>  
   <p>-> Data: PostgreSQL, MySQL;</p>
   <p>-> DevOps: Git, Linux;</p>
   <p>-> Frontend: HTML, CSS(Sass, Scss), Bootstrap;</p>
 
 </div>
+</div>
+<br>
+<div>
+   <div allign = "center">
+     <h2> 🚀 Notable projects </h2>
+   </div>
+   <div>
+       <a href="https://github.com/marinstrba/discordBot">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=marinstrba&repo=discordBot&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321" />
+      </a>
+   </div>
 </div>
 <br>
 <div>
@@ -50,17 +61,6 @@
   <br>
    -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinstrba&layout=compact&theme=radical" alt="Top Langs">
-</div>
-
-<div>
-   <div allign = "center">
-     <h2> 🚀 Notable projects </h2>
-   </div>
-   <div>
-       <a href="https://github.com/marinstrba/discordBot">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=marinstrba&repo=discordBot&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321" />
-      </a>
-   </div>
 </div>
 
 <br>
