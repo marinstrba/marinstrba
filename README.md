@@ -32,7 +32,7 @@
 </div>
 <div align="left" >
   
-  <p>-> Backend: Java, Spring Framework, Spring Boot;</p>  
+  <p>-> Backend: [](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197), Spring Framework, Spring Boot;</p>  
   <p>-> Data: PostgreSQL, MySQL;</p>
   <p>-> DevOps: Git, Linux;</p>
   <p>-> Frontend: HTML, CSS(Sass, Scss), Bootstrap;</p>
@@ -40,7 +40,10 @@
 </div>
 </div>
 <br>
-
+<div>
+ <h2>📈 GitHub Stats </h2>
+</div>
+<br>
 <div align="center">
    <!--
   <img src="https://github-readme-stats.vercel.app/api?username=marinstrba&show_icons=true&theme=radical" alt="Your GitHub stats">
