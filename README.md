@@ -1,29 +1,27 @@
 <div align="center">
 <h1>Hello👋, I'm Marian Strba!</h1> 
    
-<div align="center">
-  <!-- My Portfolio with a blue hyperlink -->
-   <h3>
-  <a href="https://marinstrba.github.io/Peronalwebsite/" style="color: blue; text-decoration: underline;">
-     🌐 My Website 🌐 
+<p align="center">
+  <!-- My Portfolio badge -->
+  <a href="https://marinstrba.github.io/Peronalwebsite/">
+    <img alt="My Website" src="https://img.shields.io/badge/🌐-My_Website-blue?style=for-the-badge&logoColor=white" />
   </a>
-   </h3>
-</div>
+</p>
 
-<div align="center">
-  <!-- Social Links with Emojis -->
-  <a href="https://www.linkedin.com/in/mari%C3%A1n-%C5%A1trba-b67414253/" style="color: black;">
-    👔 LinkedIn
+<p align="center">
+  <!-- Social Links badges -->
+  <a href="https://www.linkedin.com/in/mari%C3%A1n-%C5%A1trba-b67414253/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/👔-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;|&nbsp; 
-  <a href="mailto:marinstrba@gmail.com" style="color: black;">
-    📧 Email
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:marinstrba@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/📧-Email-black?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;|&nbsp;
-  <a href="https://www.instagram.com/marianstrba/" style="color: black;">
-    📸 Instagram
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/marianstrba/">
+    <img alt="Instagram" src="https://img.shields.io/badge/📸-Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</div>
+</p>
 
 <br>
 <div>
