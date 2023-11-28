@@ -79,10 +79,6 @@
 </div>
 <br>
 <div align="center">
-   <!--
-  <img src="https://github-readme-stats.vercel.app/api?username=marinstrba&show_icons=true&theme=radical" alt="Your GitHub stats">
-  <br>
-   -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinstrba&layout=compact&theme=radical" alt="Top Langs">
 </div>
 
