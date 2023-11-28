@@ -67,8 +67,8 @@
 <a href="https://github.com/marinstrba/discordBot">
     <img align="center" style="margin:0.5rem; max-height: 150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=marinstrba&repo=discordBot&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321" />
 </a>
-<a href="https://github.com/marinstrba/Tic-Tac-Toe">
-    <img align="center" style="margin:0.5rem; max-height: 150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=marinstrba&repo=Tic-Tac-Toe&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321" />
+<a href="https://github.com/marinstrba/leetCode">
+    <img align="center" style="margin:0.5rem; max-height: 150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=marinstrba&repo=leetCode&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321" />
 </a>
 
    </div>
