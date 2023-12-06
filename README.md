@@ -4,7 +4,7 @@
 <p align="center">
   <!-- My Portfolio badge -->
   <a href="https://marinstrba.github.io/Peronalwebsite/">
-    <img alt="My Website" src="https://img.shields.io/badge/🌐-My_Website-0A66C2?style=for-the-badge&logoColor=white" style="transform: scale(2);" />
+    <img alt="My Website" src="https://img.shields.io/badge/🌐-My_Website-0A66C2?style=for-the-badge&logoColor=white" style="transform: scale(4);" />
   </a>
 </p>
 
