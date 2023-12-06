@@ -1,12 +1,16 @@
 <div align="center">
 <h1>Hello👋, I'm Marian Strba!</h1> 
-   
+
 <p align="center">
-  <!-- My Portfolio badge -->
-  <a href="https://marinstrba.github.io/Peronalwebsite/">
-    <img alt="My Website" src="https://img.shields.io/badge/🌐-My_Website-0A66C2?style=for-the-badge&logoColor=white" style="transform: scale(4);" />
-  </a>
+  <!-- Container for scaling -->
+  <div style="transform: scale(1.5); display: inline-block;">
+    <!-- My Portfolio badge -->
+    <a href="https://marinstrba.github.io/Peronalwebsite/">
+      <img alt="My Website" src="https://img.shields.io/badge/🌐-My_Website-0A66C2?style=for-the-badge&logoColor=white" />
+    </a>
+  </div>
 </p>
+
 
 
 <p align="center">
