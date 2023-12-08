@@ -21,7 +21,7 @@
     <!-- Container for scaling -->
     <div style="transform: scale(1.5); display: inline-block;">
       <!-- My Portfolio badge -->
-      <a href="https://marinstrba.github.io/Peronalwebsite/">
+      <a href="https://marinstrba.github.io/personalPortfolio/">
         <img alt="My Website" src="https://img.shields.io/badge/🌐-My_Website-0A66C2?style=for-the-badge&logoColor=white" />
       </a>
     </div>
