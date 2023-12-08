@@ -1,20 +1,37 @@
 <div align="center">
-<h1>Hello👋, I'm Marian Strba!</h1> 
+    <h1>Hello👋, I'm Marian Strba!</h1> 
 
+<div align="center">
+    <p>
+        <span style="font-size: larger;">Hello there!!! 👨‍💻</span>
+    </p>
+    <p>
+        I'm a software engineering student passionate about web development. 💻📚
+    </p>
+    <p>
+        Eager to embrace new challenges, I'm currently working on some exciting projects. 🚀
+    </p>
+    <p>
+        Want to learn more about my journey? Check out my website below! 🌟
+    </p>
+</div>
+
+
+  <p align="center">
+    <!-- Container for scaling -->
+    <div style="transform: scale(1.5); display: inline-block;">
+      <!-- My Portfolio badge -->
+      <a href="https://marinstrba.github.io/Peronalwebsite/">
+        <img alt="My Website" src="https://img.shields.io/badge/🌐-My_Website-0A66C2?style=for-the-badge&logoColor=white" />
+      </a>
+    </div>
+  </p>
+
+
+
+
+<!--
 <p align="center">
-  <!-- Container for scaling -->
-  <div style="transform: scale(1.5); display: inline-block;">
-    <!-- My Portfolio badge -->
-    <a href="https://marinstrba.github.io/Peronalwebsite/">
-      <img alt="My Website" src="https://img.shields.io/badge/🌐-My_Website-0A66C2?style=for-the-badge&logoColor=white" />
-    </a>
-  </div>
-</p>
-
-
-
-<p align="center">
-  <!-- Social Links badges -->
   <a href="https://www.linkedin.com/in/mari%C3%A1n-%C5%A1trba-b67414253/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/👔-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -27,6 +44,8 @@
     <img alt="Instagram" src="https://img.shields.io/badge/📸-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+-->
+
 </p>
 
 <br>
