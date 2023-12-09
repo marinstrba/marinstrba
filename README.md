@@ -3,9 +3,6 @@
 
 <div align="center">
     <p>
-        <span style="font-size: larger;">Hello there!!! 👨‍💻</span>
-    </p>
-    <p>
         I'm a software engineering student passionate about web development. 💻📚
     </p>
     <p>
