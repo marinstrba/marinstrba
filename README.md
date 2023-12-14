@@ -79,7 +79,7 @@
      <h2> 🚀 My projects </h2>
    </div>
    <div>
-<a href="https://github.com/marinstrba/Library-Management-System">
+<a href="https://github.com/marinstrba/Video-Streaming-Service">
     <img align="center" style="margin:0.5rem; max-height: 150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=marinstrba&repo=Video-Streaming-Service&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321" />
 </a>
 <a href="https://github.com/marinstrba/Wireframe-model">
