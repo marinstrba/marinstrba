@@ -103,6 +103,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinstrba&layout=compact&theme=radical" alt="Top Langs">
 </div>
 
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marinstrba&show_icons=true&theme=radical)-->
+
 <br>
 
 Thank you for visiting my profile! Star some repositories if you find them interesting!
