@@ -68,8 +68,8 @@
 - Frontend:
   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-     ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-   ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
  
  <!--![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)-->
 
@@ -88,12 +88,13 @@
 <a href="https://github.com/marinstrba/Wireframe-model">
     <img align="center" style="margin:0.5rem; max-height: 150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=marinstrba&repo=Wireframe-Model&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321" />
 </a>
+<a href="https://github.com/marinstrba/Library-Management-System">
+    <img align="center" style="margin:0.5rem; max-height: 150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=marinstrba&repo=Library-Management-System&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321" />
+</a>
 <a href="https://github.com/marinstrba/discordBot">
     <img align="center" style="margin:0.5rem; max-height: 150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=marinstrba&repo=discordBot&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321" />
 </a>
-<a href="https://github.com/marinstrba/leetCode">
-    <img align="center" style="margin:0.5rem; max-height: 150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=marinstrba&repo=leetCode&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321" />
-</a>
+
 
    </div>
 </div>
