@@ -69,6 +69,10 @@
      <h2> 🚀 My projects </h2>
    </div>
    <div>
+
+<a href="https://github.com/marinstrba/eCommerce">
+    <img align="center" style="margin:0.5rem; max-height: 150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=marinstrba&repo=eCommerce&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321" />
+</a>
 <a href="https://github.com/marinstrba/Video-Streaming-Service">
     <img align="center" style="margin:0.5rem; max-height: 150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=marinstrba&repo=Video-Streaming-Service&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321" />
 </a>
@@ -78,9 +82,9 @@
 <a href="https://github.com/marinstrba/Library-Management-System">
     <img align="center" style="margin:0.5rem; max-height: 150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=marinstrba&repo=Library-Management-System&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321" />
 </a>
-<a href="https://github.com/marinstrba/discordBot">
+<!-- <a href="https://github.com/marinstrba/discordBot">
     <img align="center" style="margin:0.5rem; max-height: 150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=marinstrba&repo=discordBot&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321" />
-</a>
+</a> -->
 
 
    </div>
